@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  HomeWork11_12
 //
-//  Created by Maksim Grebenozhko on 03/09/2019.
+//  Created by Maksim Grebenozhko on 02/09/2019.
 //  Copyright © 2019 Maksim Grebenozhko. All rights reserved.
 //
 
